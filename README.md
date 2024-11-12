@@ -10,15 +10,15 @@
 
 ###
 
-<p align="left">✨ Programando desde 2022, inicio do meu processo de graduação<br>📚 Atualmente estudando Ciência da Computação<br>🎯 Metas: Trabalhar com Mercado Financeiro, Ser independente e capaz de dar um bom retorno para minha família, Visitar muitos países! </p>
+<p align="left">✨ Programando desde 2022, inicio do meu processo de graduação<br>📚 Atualmente estudando Ciência da Computação<br>🎯 Metas: Trabalhar com Mercado Financeiro, Ser independente e capaz de dar um bom retorno para minha família, Visitar muitos países! <br> 🧠 Conhecimento em métodologias agéis, diagramas e manipulação de Banco de Dados </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Linguagens Usadas</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
