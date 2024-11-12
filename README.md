@@ -1,19 +1,59 @@
-### Olá seja bem-vindo ao meu perfil! 🙂
-Moro em Passos,MG!
+<h1 align="left">Olá 👋 Como vai?</h1>
 
-<a href="https://www.instagram.com/veve444__"><img src="https://img.icons8.com/?size=50&id=eRJfQw0Zs44S&format=gif"></a>
-<a href="https://www.linkedin.com/in/gabriel-venancio-de-carvalho-768469219/"><img src="https://img.icons8.com/ios/50/linkedin.png"></a>
-<a href="mailto:gabrielvenancio1123@gmail.com"><img src="https://img.icons8.com/material-outlined/48/gmail-new.png"></a>
+###
 
-### Linguagens que uso! 💻
+<p align="left">Meu nome é Gabriel Venancio, sou de São Sebastião do Paraíso - MG. Um dev sonhador e principiante</p>
 
-### 👶🏻
-<img src="https://img.icons8.com/ios/50/css3.png"> <img src="https://img.icons8.com/ios/50/html-5--v2.png"> <img src="https://img.icons8.com/ios/50/javascript--v1.png"> <img src="https://img.icons8.com/ios/50/c-sharp-logo.png"> <img src="https://img.icons8.com/ios/50/mysql-logo.png">
+###
 
-### 👦🏻
-<img src="https://img.icons8.com/ios/50/copyright.png">
+<h2 align="left">Sobre mim</h2>
 
+###
 
-### Curriculum Atualizado 📑
+<p align="left">✨ Programando desde 2022, inicio do meu processo de graduação<br>📚 Atualmente estudando Ciência da Computação<br>🎯 Metas: Trabalhar com Mercado Financeiro, Ser independente e capaz de dar um bom retorno para minha família, Visitar muitos países! </p>
 
-<a href=""><img src="https://img.icons8.com/ios/50/curriculum.png"></a>
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wazeveve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wazeveve&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-venancio-de-carvalho-768469219/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/veve444__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
