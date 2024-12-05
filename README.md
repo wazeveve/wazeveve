@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2022, inicio do meu processo de graduação<br>📚 Atualmente estudando Ciência da Computação<br>🎯 Metas: Trabalhar com Mercado Financeiro, Ser independente e capaz de dar um bom retorno para minha família, Visitar muitos países! <br> 🧠 Conhecimento em métodologias agéis, diagramas e manipulação de Banco de Dados </p>
+<p align="left">✨ Programando desde 2022, inicio do meu processo de graduação<br>📚 Atualmente estudando Ciência da Computação<br>🎯 Metas: Trabalhar com Mercado Financeiro, ser independente e capaz de dar um bom retorno para minha família, visitar muitos países! <br> 🧠 Conhecimento em métodologias agéis, diagramas e manipulação de Banco de Dados </p>
 
 ###
 
