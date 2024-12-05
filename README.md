@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel Venancio, sou de São Sebastião do Paraíso - MG. Um dev sonhador e principiante</p>
+<p align="left">Meu nome é Gabriel Venancio, sou de São Sebastião do Paraíso - MG. Um dev principiante e sonhador</p>
 
 ###
 
