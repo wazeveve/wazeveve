@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel Venancio, sou de São Sebastião do Paraíso - MG. Estou buscando meu caminho no mundo do desenvolvimento!</p>
+<p align="left">Meu nome é Gabriel Venancio, sou de São Sebastião do Paraíso - MG. Estou trilhando meu caminho no mundo do desenvolvimento, com foco em Análise de Dados e Back-End.</p>
 
 ###
 
