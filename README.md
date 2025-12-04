@@ -55,9 +55,3 @@
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/wazeveve/wazeveve/output/snake.svg" alt="Snake animation" />
-
-###
