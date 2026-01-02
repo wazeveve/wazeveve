@@ -12,9 +12,10 @@
 
 <p align="left">
 ✨ Programando desde 2022, inicio do meu processo de graduação<br>
-📚 Atualmente estudando Ciência da Computação<br>
-🎯 Metas: Trabalhar com Mercado Financeiro, ser independente e capaz de dar um bom retorno para minha família, visitar muitos países!<br>
-🧠 Conhecimento em Métodologias Agéis, diagramas, Manipulação de Banco de Dados e Processamento Digital de Imagens</p>
+🧑🏻‍🎓 Graduado em Ciência da Computação<br>
+🎯 Metas: Trabalhar com Back End desenvolvendo soluções inovadores, viajar bastante e aproveitar o melhor da vida!<br>
+🧠 Conhecimento em Métodologias Agéis, diagramas, Manipulação de Banco de Dados, Versionamento de código e Processamento Digital de Imagens</p>
+
 
 ###
 
@@ -24,6 +25,8 @@
 "><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
   <a href="https://www.linkedin.com/in/venancioti/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
+
+
 
 ###
 
